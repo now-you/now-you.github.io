@@ -1,2 +1,5 @@
-# now-you.github.io
-Website for alla my shit
+# Website for alla my shit
+
+Guess whar? You found the readme.
+
+https://now-you.github.io
